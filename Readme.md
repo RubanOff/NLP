@@ -1,4 +1,4 @@
-readme = r"""# Dynamic Memory Architectures for Personalized LLM Agents (Memory Personalisation Demo)
+# Dynamic Memory Architectures for Personalized LLM Agents (Memory Personalisation Demo)
 
 Прототип и мини-бенчмарк для сравнения подходов **без памяти**, **history**, **RAG** и гибридной архитектуры **Profile+RAG** для персонализированных LLM-агентов.
 
